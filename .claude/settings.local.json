@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:doi.org)",
+      "WebFetch(domain:dl.acm.org)",
+      "WebFetch(domain:www.jmir.org)",
+      "WebFetch(domain:dx.plos.org)",
+      "WebFetch(domain:academic.oup.com)",
+      "WebFetch(domain:www.taylorfrancis.com)",
+      "WebFetch(domain:link.springer.com)",
+      "WebFetch(domain:mhealth.jmir.org)",
+      "WebFetch(domain:journals.plos.org)",
+      "WebFetch(domain:asistdl.onlinelibrary.wiley.com)",
+      "WebFetch(domain:ieeexplore.ieee.org)",
+      "WebFetch(domain:humanfactors.jmir.org)",
+      "WebFetch(domain:www.medra.org)",
+      "WebFetch(domain:ebooks.iospress.nl)",
+      "WebSearch",
+      "WebFetch(domain:journals.sagepub.com)",
+      "WebFetch(domain:eudl.eu)",
+      "WebFetch(domain:pmc.ncbi.nlm.nih.gov)",
+      "WebFetch(domain:www.semanticscholar.org)",
+      "WebFetch(domain:dblp.org)",
+      "WebFetch(domain:faculty.washington.edu)"
+    ]
+  }
+}

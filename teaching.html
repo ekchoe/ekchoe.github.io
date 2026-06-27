@@ -1,0 +1,18 @@
+---
+layout: default
+title: Teaching
+nav_id: teaching
+permalink: /teaching/
+---
+<h1 class="page-title">Teaching</h1>
+<div class="page-note">// current &amp; past courses </div>
+
+<div class="stack">
+  {%- for c in site.data.teaching -%}
+  <div class="course">
+    <div class="code">{{ c.code }}</div>
+    <div class="cname">{{ c.name }}</div>
+    <div class="cmeta">{{ c.terms | join: " · " }}</div>
+  </div>
+  {%- endfor -%}
+</div>

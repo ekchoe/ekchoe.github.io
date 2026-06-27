@@ -1,0 +1,76 @@
+---
+layout: default
+nav_id: home
+---
+<div class="bio-grid">
+  <div class="left-col">
+    <div class="headshot">
+      <img src="{{ '/assets/img/profile.jpeg' | relative_url }}" alt="{{ site.title }}">
+    </div>
+    {% if site.data.travel and site.data.travel.size > 0 %}
+    <div class="travel-block">
+      <div class="label label-sm" style="margin-bottom:9px;">TRAVEL</div>
+      {%- for t in site.data.travel limit: 1 -%}
+      <div class="travel-row"><span class="mo">{{ t.month }}</span><span>{{ t.where }}</span></div>
+      {%- endfor -%}
+    </div>
+    {% endif %}
+  </div>
+
+  <div class="bio-body">
+    <div class="label" style="margin-bottom:10px;">RESEARCH</div>
+    <p>{{ site.research }}</p>
+    <div class="areas-grid">
+      {%- for area in site.data.areas -%}
+      <span class="area"><span class="dot"></span>{{ area }}</span>
+      {%- endfor -%}
+    </div>
+    <div class="contact-line">
+      <span class="obf-email" data-user="choe" data-domain="umd.edu"></span>
+      <span class="sep">·</span>
+      <a href="https://maps.umd.edu/map/index.html?&zoom=19&markertype=marker&xmarker=-76.94153&ymarker=38.98816&markertext=HBK" target="_blank" rel="noopener">{{ site.office }}</a>
+      <span class="sep">·</span>
+      <a href="{{ site.cv_url }}" target="_blank" rel="noopener">CV ↓</a>
+      <span class="sep">·</span>
+      <a href="/about/">Bio</a>
+      <span class="sep">·</span>
+      <a href="{{ site.scholar_url }}" target="_blank" rel="noopener">Google Scholar ↗</a>
+    </div>
+  </div>
+</div>
+
+<hr style="margin:4px 0 18px;">
+
+<div class="sec-head">
+  <span id="projects" class="label">PROJECTS</span>
+  <a class="more" href="/projects/">All projects →</a>
+</div>
+<div class="proj-grid">
+  {%- assign featured_projects = site.data.projects | where: "featured", true -%}
+  {%- for p in featured_projects -%}
+  <div class="proj">
+    <div class="kicker">{{ p.theme }}</div>
+    <div class="ptitle">{{ p.title }}</div>
+    <div class="pdesc">{{ p.description }}</div>
+    {%- if p.image and p.image != "" -%}
+    <div class="proj-img-wrap">
+      <img class="proj-img" src="{{ '/assets/img/projects/' | append: p.image | relative_url }}" alt="{{ p.title }}">
+    </div>
+    {%- endif -%}
+    <div class="pmore">
+      {%- if p.url and p.url != "" -%}<a href="{{ p.url }}" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg> Website</a>{%- endif -%}
+      {%- if p.video and p.video != "" -%}<a href="{{ p.video }}" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="23 7 16 12 23 17 23 7"/><rect x="1" y="5" width="15" height="14" rx="2" ry="2"/></svg> Video</a>{%- endif -%}
+      {%- if p.article and p.article != "" -%}<a href="{{ p.article }}" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg> Article</a>{%- endif -%}
+    </div>
+  </div>
+  {%- endfor -%}
+</div>
+
+<hr style="margin:20px 0 18px;">
+
+<div class="label" style="margin-bottom:13px;">NEWS</div>
+<div class="news-list">
+  {%- for n in site.data.news limit: 5 -%}
+  <div class="news-row"><span class="when">{{ n.when }}</span><span class="what">{{ n.what }}</span></div>
+  {%- endfor -%}
+</div>

@@ -1,0 +1,27 @@
+# Advisees & lab members. photo is optional (path under /assets/img/students/).
+# keywords: optional list of research interest tags.
+# url: optional link to student's personal website.
+- name: "Jian Zheng"
+  role: "PhD Student in INFO"
+  photo: "zheng.jpg"
+  url: "https://www.jzheng.net/"
+  keywords:
+    - Problematic Smartphone Usage
+- name: "Yiwen Wang"
+  role: "PhD Student in INFO"
+  photo: "wang.jpg"
+  url: ""
+  keywords:
+    - Personalized Activity Tracking
+- name: "Mengying Li"
+  role: "PhD Student in INFO"
+  photo: "li.jpg"
+  url: ""
+  keywords:
+    - Medication decision-making 
+- name: "Austin Ao"
+  role: "PhD Student in Communications / MS in INFO"
+  photo: "ao.jpg"
+  url: ""
+  keywords: 
+    - health communication

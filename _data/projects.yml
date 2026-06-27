@@ -1,0 +1,148 @@
+# Projects. Set featured: true on any project to show it on the homepage.
+
+- theme: Medication Decision Making
+  title: Aidara
+  featured: true
+  image: aidara.png
+  article: https://today.umd.edu/struggling-to-understand-a-pill-bottles-tiny-type-help-is-on-the-way
+  video:
+  url:
+  description: Supporting older adults's over-the-counter medication decision making
+
+- theme: Older Adults' Activity Tracking
+  title: MyMove
+  featured: true
+  image: mymove.png
+  video: https://www.youtube.com/watch?v=2I8vvP4hdfs
+  url: https://mymove-collective.github.io
+  description: Facilitating older adults to collect In-Situ activity labels on a smartwatch with speech
+
+- theme: Older Adults' Activity Tracking
+  title: High-quality Activity Labels
+  featured: 
+  image: activitylabel.png
+  description: Investigating how older adults perceive and provide high-quality activity labels for training personalized activity recognition systems
+
+- theme: Older Adults' Activity Tracking
+  title: Meaningful Activities
+  featured: 
+  image: meaningful.jpg
+  description: Exploring what activities older adults find meaningful and worthy of tracking, challenging the deficit-focused approach that dominates current activity tracking technology design 
+
+- theme: Stroke Rehabilitation
+  title: Finger-worn Accelerometers
+  featured: true
+  image: wearable-sensors.png
+  description: Investigating the use of finger-worn accelerometers to capture both gross arm and fine hand movements for the assessment of real-world upper-limb use
+
+- theme: Stroke Rehabilitation
+  title: GoalTrack
+  featured: 
+  image: goaltrack.png
+  description: Supporting stroke survivors' rehab goal setting through multimodal data capture
+
+# - theme: Inclusive Self-Tracking
+#   title: PCOS
+#   image:
+#   description: Self-experimentation and support-seeking around Polycystic Ovary Syndrome (PCOS)
+
+- theme: Multimodal Self-Tracking
+  title: FoodScrap
+  image: foodscrap.png
+  article: https://medium.com/hcil-at-umd/foodscrap-speech-enabled-food-journaling-5ef12e3eaf40
+  description: Promoting rich data capture and reflective food journaling through speech input
+
+- theme: Multimodal Self-Tracking
+  title: TandemTrack
+  image: tandemtrack.png
+  article: https://medium.com/hcil-at-umd/tandemtrack-shaping-consistent-exercise-experience-by-complementing-a-mobile-app-with-a-smart-1bb0de5054cd
+  description: Shaping consistent exercise experience by complementing a mobile app with a smart speaker
+
+- theme: Mobile Data Visualization 
+  title: Mobile Data Visualization
+  image: mobile_datavis.jpg
+  url: https://www.routledge.com/Mobile-Data-Visualization/Lee-Dachselt-Isenberg-Choe/p/book/9780367534714
+  description: Facilitating older adults to collect In-Situ activity labels on a smartwatch with speech
+
+- theme: Personal Data Visualization
+  title: Data@Hand
+  image: data@hand.png
+  video: https://www.youtube.com/watch?v=ct2s29n-mJM&feature=emb_imp_woyt
+  url: https://data-at-hand.github.io/
+  description: Providing an overview of how to e­ffectively visualize, analyze, and communicate data on mobile devices
+
+- theme: Personal Data Visualization
+  title: Reaching Broader Audiences
+  image:
+  description: Providing an overview of how to e­ffectively visualize, analyze, and communicate data on mobile devices
+
+- theme: Personalized Self-Tracking
+  title: Personalized Tracking
+  image: personalizedtracking.png
+  url:
+  description: Enabling people to personalize their self-tracking regimen is a promising way to address diverse tracking needs while at the same time enhancing a user’s sense of identity and engagement with the tracking tool
+
+- theme: Personalized Self-Tracking
+  title: Co-Designing Food Tracker
+  image: codesign.png
+  article: https://medium.com/hcil-at-umd/co-designing-food-trackers-with-dietitians-68b897cbd9d
+  description: Identifying design opportunities for food tracker customization
+
+- theme: Personalized Self-Tracking
+  title: Semi-automated Tracking
+  image: semiautomatedtracking.png
+  description: Facilitating older adults to collect In-Situ activity labels on a smartwatch with speech
+
+- theme: Personalized Self-Tracking
+  title: OmniTrack for Research
+  image: omnitrack4research.png
+  article: https://medium.com/hcil-at-umd/boosting-mobile-in-situ-data-collection-with-omnitrack-for-research-d485d27f60ba
+  url: https://omnitrack.github.io/research/
+  description: Enableing researchers to rapidly translate their study design into a study app, deploy the app remotely, and monitor the data collection, all without requiring any coding
+
+- theme: Personalized Self-Tracking
+  title: OmniTrack
+  image: omnitrack.jpg
+  video: https://www.youtube.com/watch?v=zRIuENNRjEM
+  url: https://omnitrack.github.io/
+  description: Facilitating older adults to collect In-Situ activity labels on a smartwatch with speech
+
+- theme: Mobile Data Visualization
+  title: Trend Vis on Mobile
+  image: ani_vs_sm.png
+  description: Comparating animation and small multiples for trend visualization on mobile phones
+
+- theme: Mobile Data Visualization
+  title: Ranges over Time on Mobile
+  image: ranges_on_mobile.png
+  description: Comparing approaches to visualizing ranges over time on small displays
+
+- theme: Personal Data Visualization
+  title: Methods for Personal Vis
+  image: methods4personalvis.png
+  description: Providing an overview of how to e­ffectively visualize, analyze, and communicate data on mobile devices
+
+- theme: Personal Data Visualization
+  title: Visualized Self
+  image: visualizedself.png
+  description: Understing how people reflect on personal data through visual data exploration
+
+- theme: Personal Data Visualization
+  title: Personal Insights
+  image: personal_insights.png
+  description: Examining what insights people gain from their data and how they use visualizations to communicate the insight to inform how to support identifying and communicating these personal insights
+
+- theme: Personal Productivity
+  title: Meaning of Personal Productivity
+  image: personalproductivity.png
+  description: Understanding how knowledge workers define, evaluate, and reflect on their productivity
+
+- theme: Personal Productivity
+  title: Time for Break
+  image: time4break.png
+  description: Understanding information workers’ sedentary behavior through a break prompting system
+
+- theme: Personal Productivity
+  title: TimeAware
+  image: timeaware.jpg
+  description: Leveraging framing effects to enhance personal productivity

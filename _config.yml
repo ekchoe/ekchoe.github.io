@@ -1,0 +1,27 @@
+title: Eun Kyoung Choe
+tagline: "Professor · College of Information · University of Maryland"
+email: choe@umd.edu
+office: "office: HBK 2117F"
+cv_url: "/assets/choe-cv.pdf"
+scholar_url: "https://scholar.google.com/citations?user=YjSJWqkAAAAJ&hl=en&oi=ao"
+last_updated: June 2026
+
+# Research blurb shown on the homepage
+research: >
+  My research envisions an inclusive future where people are empowered to collect, 
+  explore, and act on their personal data to make informed, personalized health decisions 
+  and achieve their goals. By designing accessible technologies, I work to extend this 
+  power to everyone — especially those who have long been underserved — and to reduce 
+  health disparities.
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+# If this is NOT a <username>.github.io user site, set baseurl to "/your-repo-name"
+baseurl: ""
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor

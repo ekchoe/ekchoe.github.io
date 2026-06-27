@@ -1,0 +1,12 @@
+---
+layout: default
+nav_id: writing
+---
+<a class="back-link" href="{{ '/writing/' | relative_url }}">← Writing</a>
+<article>
+  <h1 class="page-title" style="margin-bottom:2px;">{{ page.title }}</h1>
+  <div class="page-note" style="text-transform:none;letter-spacing:0;">{{ page.date | date: "%B %-d, %Y" }}</div>
+  <div class="prose">
+    {{ content }}
+  </div>
+</article>

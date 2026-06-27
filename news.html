@@ -1,0 +1,14 @@
+---
+layout: default
+title: News
+nav_id: news
+permalink: /news/
+---
+<h1 class="page-title">News</h1>
+<div class="page-note">// reverse-chronological </div>
+
+<div class="news-list" style="gap:5px;">
+  {%- for n in site.data.news -%}
+  <div class="news-row"><span class="when">{{ n.when }}</span><span class="what">{{ n.what }}</span></div>
+  {%- endfor -%}
+</div>

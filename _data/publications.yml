@@ -1,0 +1,1131 @@
+# Publications, grouped by year (newest first within the file).
+# award: optional short badge (e.g. "Best Paper"). links: optional list.
+# - year: 2025
+#   items:
+#     - title: "Replace with a real paper title."
+#       authors:
+#         - Chi Young Oh 
+#         - Yuhan Luo
+#         - Beth St. Jean
+#         - Eun Kyoung Choe
+#       venue: "CHI 2025"
+#       type: journal
+#       award: ""
+#       links:
+#         - { label: PDF, url: "#" }
+#         - { label: DOI, url: "#" }
+# - year: 2024
+#   items:
+#     - title: "Another paper title goes here."
+#       authors: "Eun Kyoung Choe, B. Author"
+#       venue: "CSCW 2024"
+#       award: "Best Paper"
+#       links:
+#         - { label: PDF, url: "#" }
+#     - title: "A third example publication."
+#       authors: "D. Author, Eun Kyoung Choe"
+#       venue: "UbiComp 2024"
+#       links:
+#         - { label: PDF, url: "#" }
+
+# - id: paitients-waiting-4-cues
+#   title: "Patients Waiting for Cues: Information Asymmetries and Challenges in Sharing Patient-Generated Data in the Clinic."
+#   authors:
+#     - Chi Young Oh
+#     - Yuhan Luo
+#     - Beth St. Jean
+#     - Eun Kyoung Choe
+#   year: 2022
+#   venue: PACM HCI (CSCW '22)
+#   type: journal
+
+- year: 2026
+  items:
+  - title: Looking Beyond the Screen to Study the Technology Use of Older People Experiencing
+      Cognitive Concerns
+    authors:
+    - Ruipu Hu
+    - Eun Kyoung Choe
+    - Amanda Lazar
+    venue: CHI 2026
+    type: conference
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/3772318.3790526
+- year: 2025
+  items:
+  - title: 'Enabling Older Adults to Provide High-Quality Activity Labels: Unpacking
+      Accuracy, Precision, and Granularity in Activity Labeling'
+    authors:
+    - Yiwen Wang
+    - Hossein Khayami
+    - Bongshin Lee
+    - Amanda Lazar
+    - Hernisa Kacorri
+    - Eun Kyoung Choe
+    venue: IMWUT 2025
+    type: journal
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/3770649
+  - title: Identifying Design Opportunities for Behavior Displacement for Intervening
+      Sedentary Time Among Older Adults
+    authors:
+    - Mengying Li
+    - Eun Kyoung Choe
+    venue: IMWUT 2025
+    type: journal
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/3749476
+  - title: 'From Awareness to Action: Ambient Display and Customizable Attention Signals
+      for Self-regulated Smartphone Usage'
+    authors:
+    - Jian Zheng
+    - Subin Seo
+    - Eun Kyoung Choe
+    venue: IMWUT 2025
+    type: journal
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/3749507
+  - title: 'From Verbal Reports to Personalized Activity Trackers: Understanding the
+      Challenges of Ground Truth Data Collection with Older Adults in the Wild'
+    authors:
+    - Hossein Khayami
+    - Lining Wang
+    - Young-Ho Kim
+    - Bongshin Lee
+    - David E. Conroy
+    - Amanda Lazar
+    - Eun Kyoung Choe
+    - Hernisa Kacorri
+    venue: IMWUT 2025
+    type: journal
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/3731749
+  - title: 'FluidTrack: Investigating Child-Parent Collaborative Tracking for Pediatric
+      Voiding Dysfunction Management'
+    authors:
+    - Junhyung Moon
+    - Sukhyun Lee
+    - Youngchan Kim
+    - Juhee Go
+    - Han Mo Ku
+    - Yeohyun Jung
+    - Seonyeong Hwang
+    - Bongshin Lee
+    - Yong Seung Lee
+    - Hyun-Kyung Lee
+    - Kyoungwoo Lee
+    - Eun Kyoung Choe
+    venue: CHI 2025
+    type: conference
+    award: Best Paper Award
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/3706598.3713878
+  - title: Tracking and its Potential for Older Adults with Memory Concerns
+    authors:
+    - Amelia Short
+    - Norman Makoto Su
+    - Ruipu Hu
+    - Eun Kyoung Choe
+    - Hernisa Kacorri
+    - Margaret Danilovich
+    - David E. Conroy
+    - Shannon Jette
+    - Beth Barnett
+    - Amanda Lazar
+    venue: CHI 2025
+    type: conference
+    award: Best Paper Award
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/3706598.3714093
+  - title: 'Who Helps the Helpers?: Complications and Considerations for ICT Instructors
+      Teaching Older Adults'
+    authors:
+    - Jiwon Song
+    - Bongshin Lee
+    - Jinwook Seo
+    - Eun Kyoung Choe
+    venue: CHI 2025 (Late Breaking Work)
+    type: conference
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/3706599.3720257
+- year: 2024
+  items:
+  - title: 'GoalTrack: Supporting Personalized Goal-Setting in Stroke Rehabilitation
+      with Multimodal Activity Journaling'
+    authors:
+    - Jong Ho Lee
+    - Sunghoon Ivan Lee
+    - Eun Kyoung Choe
+    venue: IMWUT 2024
+    type: journal
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/3699723
+  - title: 'Identify, Adapt, Persist: The Journey of Blind Individuals with Personal
+      Health Technologies'
+    authors:
+    - Jarrett G.W. Lee
+    - Bongshin Lee
+    - Soyoung Choi
+    - JooYoung Seo
+    - Eun Kyoung Choe
+    venue: IMWUT 2024
+    type: journal
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/3659585
+  - title: 'Databiting: Lightweight, Transient, and Insight Rich Exploration of Personal
+      Data'
+    authors:
+    - Bradley Rey
+    - Bongshin Lee
+    - Eun Kyoung Choe
+    - Pourang Irani
+    venue: IEEE CG&A 2024
+    type: journal
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1109/MCG.2024.3353888
+  - title: Redefining Activity Tracking Through Older Adults' Reflections on Meaningful
+      Activities
+    authors:
+    - Yiwen Wang
+    - Mengying Li
+    - Young-Ho Kim
+    - Bongshin Lee
+    - Margaret Danilovich
+    - Amanda Lazar
+    - David E. Conroy
+    - Hernisa Kacorri
+    - Eun Kyoung Choe
+    venue: CHI 2024
+    type: conference
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/3613904.3642170
+  - title: Visual Cues for Data Analysis Features Amplify Challenges for Blind Spreadsheet
+      Users
+    authors:
+    - Minoli Perera
+    - Bongshin Lee
+    - Eun Kyoung Choe
+    - Kim Marriott
+    venue: CHI 2024
+    type: conference
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/3613904.3642753
+- year: 2023
+  items:
+  - title: 'Personal Health Data Tracking by Blind and Low-Vision People: A Survey
+      Study'
+    authors:
+    - Jarrett G.W. Lee
+    - Kyungyeon Lee
+    - Bongshin Lee
+    - Soyoung Choi
+    - JooYoung Seo
+    - Eun Kyoung Choe
+    venue: JMIR 2023
+    type: journal
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.2196/43917
+  - title: Investigating In-Situ Personal Health Data Queries on Smartwatches
+    authors:
+    - Bradley Rey
+    - Bongshin Lee
+    - Eun Kyoung Choe
+    - Pourang Irani
+    venue: IMWUT 2023
+    type: journal
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/3569481
+  - title: 'Decorative, Evocative, and Uncanny: Reactions on Ambient-to-Disruptive
+      Health Notifications via Plant-Mimicking Shape-Changing Interfaces'
+    authors:
+    - Jarrett G.W. Lee
+    - Bongshin Lee
+    - Eun Kyoung Choe
+    venue: CHI 2023
+    type: conference
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/3544548.3581486
+- year: 2022
+  items:
+  - title: 'NoteWordy: Investigating Touch and Speech Input on Smartphones for Personal
+      Data Capture'
+    authors:
+    - Yuhan Luo
+    - Bongshin Lee
+    - Young-Ho Kim
+    - Eun Kyoung Choe
+    venue: PACM HCI (ISS) 2022
+    type: journal
+    award: Best Paper Honorable Mention Award
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/3567734
+  - title: 'Taking a Language Detour: How International Migrants Speaking a Minority
+      Language Seek COVID-Related Information in Their Host Countries'
+    authors:
+    - Ge Gao
+    - Jian Zheng
+    - Eun Kyoung Choe
+    - Naomi Yamashita
+    venue: PACM HCI (CSCW2) 2022
+    type: journal
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/3555600
+  - title: 'Envisioning the Use of In-Situ Arm Movement Data in Stroke Rehabilitation:
+      Stroke Survivors'' and Occupational Therapists'' Perspectives'
+    authors:
+    - Hee-Tae Jung
+    - Yoojung Kim
+    - Juhyeon Lee
+    - Sunghoon Ivan Lee
+    - Eun Kyoung Choe
+    venue: PLoS ONE 2022
+    type: journal
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1371/journal.pone.0274142
+  - title: Understanding the consequences of moment-by-moment fluctuations in mood
+      and social experience for paranoid ideation in psychotic disorders
+    authors:
+    - Ryan D. Orth
+    - Juyoen Hur
+    - Anyela M. Jacome
+    - Christina L. G. Savage
+    - Shannon E. Grogans
+    - Young-Ho Kim
+    - Eun Kyoung Choe
+    - Alexander J. Shackman
+    - Jack J. Blanchard
+    venue: Schizophrenia Bulletin Open 2022
+    type: journal
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1093/schizbullopen/sgac064
+  - title: 'Patients Waiting for Cues: Information Asymmetries and Challenges in Sharing
+      Patient-Generated Data in the Clinic'
+    authors:
+    - Chi Young Oh
+    - Yuhan Luo
+    - Beth St. Jean
+    - Eun Kyoung Choe
+    venue: PACM HCI (CSCW1) 2022
+    type: journal
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/3512954
+  - title: 'MyMove: Facilitating Older Adults to Collect In-Situ Activity Labels on
+      a Smartwatch with Speech'
+    authors:
+    - Young-Ho Kim
+    - Diana Chou
+    - Bongshin Lee
+    - Margaret Danilovich
+    - Amanda Lazar
+    - David E Conroy
+    - Hernisa Kacorri
+    - Eun Kyoung Choe
+    venue: CHI 2022
+    type: conference
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/3491102.3517457
+- year: 2021
+  items:
+  - title: Mobile Data Visualization
+    authors:
+    - Bongshin Lee
+    - Raimund Dachselt
+    - Petra Isenberg
+    - Eun Kyoung Choe
+    venue: CRC Press (Edited Book)
+    type: book_edited
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1201/9781003090823
+  - title: mHealth and Applications
+    authors:
+    - Eun Kyoung Choe
+    - Predrag Klasnja
+    - Wanda Pratt
+    venue: Biomedical Informatics (Book Chapter). Springer, London.
+    type: book_chapter
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1007/978-3-030-58721-5_19
+  - title: 'Characterizing Glanceable Visualizations: From Perception to Behavior
+      Change'
+    authors:
+    - Tanja Blascheck
+    - Frank Bentley
+    - Eun Kyoung Choe
+    - Tom Horak
+    - Petra Isenberg
+    venue: Mobile Data Visualization (Book Chapter). CRC Press.
+    type: book_chapter
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1201/9781003090823-5
+  - title: Evaluating Mobile Visualizations
+    authors:
+    - Frank Bentley
+    - Eun Kyoung Choe
+    - Lena Mamykina
+    - John Stasko
+    - Pourang Irani
+    venue: Mobile Data Visualization (Book Chapter). CRC Press.
+    type: book_chapter
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1201/9781003090823-6
+  - title: 'Reflect, not Regret: Understanding Regretful Smartphone Use with App Feature-Level
+      Analysis'
+    authors:
+    - Hyunsung Cho
+    - DaEun Choi
+    - Donghwi Kim
+    - Wan Ju Kang
+    - Eun Kyoung Choe
+    - Sung-Ju Lee
+    venue: PACM HCI (CSCW2) 2021
+    type: journal
+    award: Best Paper Award & Methods Recognition
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/3479600
+  - title: 'Willingness to Share Wearable Device Data for Research Among Mechanical
+      Turk Workers: Web-Based Survey Study'
+    authors:
+    - Casey Overby Taylor
+    - Natalie Flaks-Manov
+    - Shankar Ramesh
+    - Eun Kyoung Choe
+    venue: JMIR 2021
+    type: journal
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.2196/19789
+  - title: 'The SleepFit Tablet Application for Home-Based Clinical Data Collection
+      in Parkinson Disease: User-Centric Development and Usability Study'
+    authors:
+    - Alessandro Mascheroni
+    - Eun Kyoung Choe
+    - Yuhan Luo
+    - Michele Marazza
+    - Clara Ferlito
+    - Serena Caverzasio
+    - Francesco Mezzanotte
+    - Alain Kaelin-Lang
+    - Francesca Faraci
+    - Alessandro Puiatti
+    - Pietro Luca Ratti
+    venue: JMIR mHealth and uHealth 2021
+    type: journal
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.2196/16304
+  - title: 'FoodScrap: Promoting Rich Data Capture and Reflective Food Journaling
+      Through Speech Input'
+    authors:
+    - Yuhan Luo
+    - Young-Ho Kim
+    - Bongshin Lee
+    - Naeemul Hassan
+    - Eun Kyoung Choe
+    venue: DIS 2021
+    type: conference
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/3461778.3462074
+  - title: 'Data@Hand: Fostering Visual Exploration of Personal Data on Smartphones
+      Leveraging Speech and Touch Interaction'
+    authors:
+    - Young-Ho Kim
+    - Bongshin Lee
+    - Arjun Srinivasan
+    - Eun Kyoung Choe
+    venue: CHI 2021
+    type: conference
+    award: Best Paper Honorable Mention Award
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/3411764.3445421
+  - title: 'Living with Uncertainty and Stigma: Self-Experimentation and Support-Seeking
+      around Polycystic Ovary Syndrome'
+    authors:
+    - Shaan Chopra
+    - Rachael Zehrung
+    - Tamil Arasu Shanmugam
+    - Eun Kyoung Choe
+    venue: CHI 2021
+    type: conference
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/3411764.3445706
+- year: 2020
+  items:
+  - title: 'Interrelationships Between Patients'' Data Tracking
+      Practices, Data Sharing Practices, and their Health Literacy: Onsite Survey
+      Study'
+    authors:
+    - Yuhan Luo
+    - Chi Young Oh
+    - Beth St. Jean
+    - Eun Kyoung Choe
+    venue: JMIR 2020
+    type: journal
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.2196/18937
+  - title: Reaching Broader Audiences with Data Visualization
+    authors:
+    - Bongshin Lee
+    - Eun Kyoung Choe
+    - Petra Isenberg
+    - Kim Marriott
+    - John Stasko
+    venue: IEEE CG&A 2020
+    type: journal
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1109/MCG.2020.2968244
+  - title: 'Inciting Incidents: How Can We Motivate Family Conversations about Health?'
+    authors:
+    - Jomara Sandbulte
+    - Jordan Beck
+    - Eun Kyoung Choe
+    - John M. Carroll
+    venue: IJHCI 2020
+    type: journal
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1080/10447318.2020.1720442
+  - title: 'TandemTrack: Shaping Consistent Exercise Experience by Complementing a
+      Mobile App with a Smart Speaker'
+    authors:
+    - Yuhan Luo
+    - Bongshin Lee
+    - Eun Kyoung Choe
+    venue: CHI 2020
+    type: conference
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/3313831.3376616
+  - title: Towards Family-Centered Health Technologies that Support Distributed Families
+      on Sustainable Healthy Practices Together
+    authors:
+    - Jomara Sandbulte
+    - Eun Kyoung Choe
+    - John M. Carroll
+    venue: ASIS&T 2020
+    type: conference
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1002/pra2.274
+- year: 2019
+  items:
+  - title: Towards the Design of a Ring Sensor-based mHealth System to Achieve Optimal
+      Motor Function in Stroke Survivors
+    authors:
+    - Yoojung Kim
+    - Hee-Tae Jung
+    - Joonwoo Park
+    - Yangsoo Kim
+    - Nathan Ramasarma
+    - Paolo Bonato
+    - Eun Kyoung Choe
+    - Sunghoon Ivan Lee
+    venue: IMWUT 2019
+    type: journal
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/3369817
+  - title: A New Prospective, Home-Based Monitoring of Motor Symptoms in Parkinson's
+      Disease
+    authors:
+    - Pietro-Luca Ratti
+    - Francesca Faraci
+    - Sandra Hackethal
+    - Alessandro Mascheroni
+    - Clara Ferlito
+    - Serena Caverzasio
+    - Ninfa Amato
+    - Eun Kyoung Choe
+    - Yuhan Luo
+    - Paulo-Edson Nunes-Ferreira
+    - Salvatore Galati
+    - Alessandro Puiatti
+    - Alain Kaelin-Lang
+    venue: Journal of Parkinson's Disease 2019
+    type: journal
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.3233/JPD-191662
+  - title: A Comparative Evaluation of Animation and Small Multiples for Trend Visualization
+      on Mobile Phones
+    authors:
+    - Matthew Brehmer
+    - Bongshin Lee
+    - Petra Isenberg
+    - Eun Kyoung Choe
+    venue: IEEE TVCG (InfoVis) 2019
+    type: journal
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1109/TVCG.2019.2934397
+  - title: 'Communicating Bad News: Insights for the Design of Consumer Health Technologies'
+    authors:
+    - Eun Kyoung Choe
+    - Maria E. Duarte
+    - Hwajung Suh
+    - Wanda Pratt
+    - Julie Kientz
+    venue: JMIR Human Factors 2019
+    type: journal
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.2196/humanfactors.8885
+  - title: Investigating Data Accessibility of Personal Health Apps
+    authors:
+    - Yoojung Kim
+    - Bongshin Lee
+    - Eun Kyoung Choe
+    venue: JAMIA 2019
+    type: journal
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1093/jamia/ocz003
+  - title: A Novel Upper-limb Function Measure Derived from Finger-worn Sensor Data
+      Collected in a Free-living Setting
+    authors:
+    - Sunghoon Ivan Lee
+    - Xin Liu
+    - Smita Rajan
+    - Nathan Ramasarma
+    - Eun Kyoung Choe
+    - Paolo Bonato
+    venue: PLoS ONE 2019
+    type: journal
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1371/journal.pone.0212484
+  - title: 'Persuasive Data Videos: Investigating Persuasive Self-Tracking Feedback
+      with Augmented Data Videos'
+    authors:
+    - Eun Kyoung Choe
+    - Yumiko Sakamoto
+    - Yanis Fatmi
+    - Bongshin Lee
+    - Christophe Hurter
+    - Ashkan Haghshenas
+    - Pourang Irani
+    venue: AMIA 2019
+    type: conference
+    award: Distinguished Paper Award Nomination
+    links:
+    - label: Link
+      url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7153086/
+  - title: 'Co-Designing Food Trackers with Dietitians: Identifying Design Opportunities
+      for Food Tracker Customization'
+    authors:
+    - Yuhan Luo
+    - Peiyi Liu
+    - Eun Kyoung Choe
+    venue: CHI 2019
+    type: conference
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/3290605.3300822
+  - title: 'Understanding Personal Productivity: How Knowledge Workers Define, Evaluate,
+      and Reflect on Their Productivity'
+    authors:
+    - Young-Ho Kim
+    - Eun Kyoung Choe
+    - Bongshin Lee
+    - Jinwook Seo
+    venue: CHI 2019
+    type: conference
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/3290605.3300845
+  - title: 'Turning Points: Motivating Intergenerational Families to Engage on Sustainable
+      Health Information'
+    authors:
+    - Jomara Binda
+    - Jordan Beck
+    - Eun Kyoung Choe
+    - John M. Carroll
+    venue: iConference 2019
+    type: conference
+    award: ''
+    links:
+    - label: Link
+      url: https://link.springer.com/chapter/10.1007/978-3-030-15742-5_70
+- year: 2018
+  items:
+  - title: 'Visualizing Ranges over Time on Mobile Phones: A Task-Based Crowdsourced
+      Evaluation'
+    authors:
+    - Matthew Brehmer
+    - Bongshin Lee
+    - Petra Isenberg
+    - Eun Kyoung Choe
+    venue: IEEE TVCG (InfoVis) 2018
+    type: journal
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1109/TVCG.2018.2865234
+  - title: Harnessing the Power of Patient-Generated Data
+    authors:
+    - Eun Kyoung Choe
+    - Bongshin Lee
+    - Tariq Osman Andersen
+    - Lauren Wilcox
+    - Geraldine Fitzpatrick
+    venue: IEEE Pervasive Computing 2018
+    type: journal
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1109/MPRV.2018.022511243
+  - title: 'OneNote Meal: A Photo-Based Diary Study for Reflective Meal Tracking'
+    authors:
+    - Johnna Blair
+    - Yuhan Luo
+    - Ning F. Ma
+    - Sooyeon Lee
+    - Eun Kyoung Choe
+    venue: AMIA 2018
+    type: conference
+    award: ''
+    links:
+    - label: Link
+      url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6371351/
+  - title: Supporting Effective Sharing of Health Information among Intergenerational
+      Family Members
+    authors:
+    - Jomara Binda
+    - Chien Wen Yuan
+    - Natalie Cope
+    - Hyehyun Park
+    - Eun Kyoung Choe
+    - John M. Carroll
+    venue: PervasiveHealth 2018
+    type: conference
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/3240925.3240936
+  - title: 'Time for Break: Understanding Information Workers'' Sedentary Behavior
+      Through a Break Prompting System'
+    authors:
+    - Yuhan Luo
+    - Bongshin Lee
+    - Donghee Yvette Wohn
+    - Amanda Rebar
+    - David E. Conroy
+    - Eun Kyoung Choe
+    venue: CHI 2018
+    type: conference
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/3173574.3173701
+- year: 2017
+  items:
+  - title: 'OmniTrack: A Flexible Self-Tracking Approach Leveraging Semi-Automated
+      Tracking'
+    authors:
+    - Young-Ho Kim
+    - Jae-Ho Jeon
+    - Bongshin Lee
+    - Eun Kyoung Choe
+    - Jinwook Seo
+    venue: IMWUT 2017
+    type: journal
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/3130930
+  - title: 'Semi-Automated Tracking: A Balanced Approach for Self-Monitoring Applications'
+    authors:
+    - Eun Kyoung Choe
+    - Saeed Abdullah
+    - Mashfiqui Rabbi
+    - Edison Thomaz
+    - Daniel A. Epstein
+    - Felicia Cordeiro
+    - Matthew Kay
+    - Gregory D. Abowd
+    - Tanzeem Choudhury
+    - James Fogarty
+    - Bongshin Lee
+    - Mark Matthews
+    - Julie A. Kientz
+    venue: IEEE Pervasive Computing 2017
+    type: journal
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1109/MPRV.2017.18
+  - title: Expanding Research Methods for a Realistic Understanding of Personal Visualization
+    authors:
+    - Alice Thudt
+    - Bongshin Lee
+    - Eun Kyoung Choe
+    - Sheelagh Carpendale
+    venue: IEEE CG&A 2017
+    type: journal
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1109/MCG.2017.23
+  - title: 'Plan and Play: Supporting Intentional Media Use in Early Childhood'
+    authors:
+    - Alexis Hiniker
+    - Bongshin Lee
+    - Kiley Sobel
+    - Eun Kyoung Choe
+    venue: IDC 2017
+    type: conference
+    award: Best Paper Award Nomination
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/3078072.3079752
+  - title: 'Understanding Self-Reflection: How People Reflect on Personal Data Through
+      Visual Data Exploration'
+    authors:
+    - Eun Kyoung Choe
+    - Bongshin Lee
+    - Haining Zhu
+    - Nathalie Henry Riche
+    - Dominikus Baur
+    venue: PervasiveHealth 2017
+    type: conference
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/3154862.3154881
+  - title: 'Fostering User Engagement: Improving Sense of Identity through Cosmetic
+      Customization in Wearable Trackers'
+    authors:
+    - Jin Kang
+    - Jomara Binda
+    - Pratik Agarwal
+    - Bruno Saconi
+    - Eun Kyoung Choe
+    venue: PervasiveHealth 2017
+    type: conference
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/3154862.3154878
+  - title: 'Making Space for the Quality Care: Opportunities for Technology in Cognitive
+      Behavioral Therapy for Insomnia'
+    authors:
+    - Haining Zhu
+    - Yuhan Luo
+    - Eun Kyoung Choe
+    venue: CHI 2017
+    type: conference
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/3025453.3025549
+  - title: 'ChartAccent: Annotation for Data-Driven Storytelling'
+    authors:
+    - Donghao Ren
+    - Matthew Brehmer
+    - Bongshin Lee
+    - Tobias Höllerer
+    - Eun Kyoung Choe
+    venue: PacificVis 2017
+    type: conference
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1109/PACIFICVIS.2017.8031599
+- year: 2016
+  items:
+  - title: 'Sharing Patient-Generated Data in Clinical Practices: An Interview Study'
+    authors:
+    - Haining Zhu
+    - Joanna Colgan
+    - Madhu Reddy
+    - Eun Kyoung Choe
+    venue: AMIA 2016
+    type: conference
+    award: Distinguished Paper Award Nomination
+    links:
+    - label: Link
+      url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5333267/
+  - title: 'TimeAware: Leveraging Framing Effects to Enhance Personal Productivity'
+    authors:
+    - Young-Ho Kim
+    - Jae-Ho Jeon
+    - Eun Kyoung Choe
+    - Bongshin Lee
+    - KwonHyun Kim
+    - Jinwook Seo
+    venue: CHI 2016
+    type: conference
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/2858036.2858428
+- year: 2015
+  items:
+  - title: 'Consumer Sleep Technologies: A Review of the Landscape'
+    authors:
+    - Ping-Ru T. Ko
+    - Julie A. Kientz
+    - Eun Kyoung Choe
+    - Matthew Kay
+    - Carol A. Landis
+    - Nathaniel F. Watson
+    venue: Journal of Clinical Sleep Medicine 2015
+    type: journal
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.5664/jcsm.5288
+  - title: Characterizing Visualization Insights from Quantified-Selfers' Personal
+      Data Presentations
+    authors:
+    - Eun Kyoung Choe
+    - Bongshin Lee
+    - m.c. schraefel
+    venue: IEEE CG&A 2015
+    type: journal
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1109/MCG.2015.51
+  - title: 'SleepTight: Low-burden, Self-monitoring Technology for Capturing and Reflecting
+      on Sleep Behaviors'
+    authors:
+    - Eun Kyoung Choe
+    - Bongshin Lee
+    - Matthew Kay
+    - Wanda Pratt
+    - Julie A. Kientz
+    venue: UbiComp 2015
+    type: conference
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/2750858.2804266
+- year: 2014
+  items:
+  - title: Understanding Quantified-Selfers' Practices in Collecting and Exploring
+      Personal Data
+    authors:
+    - Eun Kyoung Choe
+    - Nicole B. Lee
+    - Bongshin Lee
+    - Wanda Pratt
+    - Julie A. Kientz
+    venue: CHI 2014
+    type: conference
+    award: Honorable Mention Award
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/2556288.2557372
+- year: 2013
+  items:
+  - title: 'Persuasive Performance Feedback: The Effect of Framing on Self-Efficacy'
+    authors:
+    - Eun Kyoung Choe
+    - Bongshin Lee
+    - Sean Munson
+    - Wanda Pratt
+    - Julie A. Kientz
+    venue: AMIA 2013
+    type: conference
+    award: Best Student Paper Nomination
+    links:
+    - label: Link
+      url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3900219/
+  - title: 'Visual Framing: Nudging People Away From Privacy-Invasive Mobile Apps'
+    authors:
+    - Eun Kyoung Choe
+    - Jaeyeon Jung
+    - Bongshin Lee
+    - Kristie Fisher
+    venue: INTERACT 2013
+    type: conference
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1007/978-3-642-40477-1_5
+- year: 2012
+  items:
+  - title: Investigating Receptiveness to Sensing and Inference in the Home Using
+      Sensor Proxies
+    authors:
+    - Eun Kyoung Choe
+    - Sunny Consolvo
+    - Jaeyeon Jung
+    - Beverly Harrison
+    - Shwetak N. Patel
+    - Julie A. Kientz
+    venue: UbiComp 2012
+    type: conference
+    award: Best Paper Nomination
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/2370216.2370226
+  - title: 'Lullaby: A Capture & Access System for Understanding the Sleep Environment'
+    authors:
+    - Matthew Kay
+    - Eun Kyoung Choe
+    - Jesse Shepherd
+    - Benjamin Greenstein
+    - Nathaniel Watson
+    - Sunny Consolvo
+    - Julie A. Kientz
+    venue: UbiComp 2012
+    type: conference
+    award: Best Paper Award
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/2370216.2370253
+- year: 2011
+  items:
+  - title: 'Living in a Glass House: A Survey of Private Moments in the Home'
+    authors:
+    - Eun Kyoung Choe
+    - Sunny Consolvo
+    - Jaeyeon Jung
+    - Beverly Harrison
+    - Julie A. Kientz
+    venue: UbiComp 2011
+    type: conference
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/2030112.2030118
+  - title: Opportunities for Computing Technologies to Support Healthy Sleep Behaviors
+    authors:
+    - Eun Kyoung Choe
+    - Sunny Consolvo
+    - Nathaniel F. Watson
+    - Julie A. Kientz
+    venue: CHI 2011
+    type: conference
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/1978942.1979395
+- year: 2010
+  items:
+  - title: Heuristic Evaluation of Persuasive Health Technologies
+    authors:
+    - Julie A. Kientz
+    - Eun Kyoung Choe
+    - Brennen Birch
+    - Robert Maharaj
+    - Amanda Fonville
+    - Chelsey Glasson
+    - Jen Mundt
+    venue: IHI 2010
+    type: conference
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/1882992.1883084
+  - title: Exploring the Use of Technology in Healthcare Spaces and its Impact on
+      Empathic Communication
+    authors:
+    - Amanda Fonville
+    - Eun Kyoung Choe
+    - Susan Oldham
+    - Julie A. Kientz
+    venue: IHI 2010
+    type: conference
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/1882992.1883071
+  - title: 'Post-Traumatic Stress Disorder: Opportunities & Challenges for Computing
+      Technology'
+    authors:
+    - Brian M. Landry
+    - Eun Kyoung Choe
+    - Stephen McCutcheon
+    - Julie A. Kientz
+    venue: IHI 2010
+    type: conference
+    award: ''
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/1882992.1883110
+  - title: Understanding and Designing Computing Technologies that Convey Concerning
+      Health News
+    authors:
+    - Eun Kyoung Choe
+    - Marisa E. Duarte
+    - Julie A. Kientz
+    venue: D&E 2010
+    type: conference
+    award: ''
+    links:
+    - label: Link
+      url: https://zenodo.org/records/2596781

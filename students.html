@@ -1,0 +1,38 @@
+---
+layout: default
+title: Students
+nav_id: students
+permalink: /students/
+---
+<h1 class="page-title">Students</h1>
+<div class="page-note">// advisees &amp; lab members </div>
+
+<div class="students-grid">
+  {%- for s in site.data.students -%}
+  <div class="student">
+    {% if s.photo and s.photo != "" %}
+    <img class="avatar" src="{{ '/assets/img/students/' | append: s.photo | relative_url }}" alt="{{ s.name }}">
+    {% else %}
+    <div class="avatar"></div>
+    {% endif %}
+    <div>
+      <div class="sname">{% if s.url and s.url != "" %}<a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.name }}</a>{% else %}{{ s.name }}{% endif %}</div>
+      <div class="srole">{{ s.role }}</div>
+      {%- if s.keywords and s.keywords.size > 0 -%}
+      <div class="skeywords">
+        {%- for kw in s.keywords -%}<span class="skw {% cycle 'skw-1','skw-2','skw-3','skw-4','skw-5' %}">{{ kw }}</span>{%- endfor -%}
+      </div>
+      {%- endif -%}
+    </div>
+  </div>
+  {%- endfor -%}
+</div>
+
+<hr style="margin:32px 0 24px;">
+
+<div class="prospective">
+  <div class="label" style="margin-bottom:14px;">PROSPECTIVE STUDENTS</div>
+  <p class="prosp-intro">I encourage you to read a few of my recent papers to get a sense of the work we do. If you are already at UMD, feel free to reach out and let me know what you are looking for — advisor, committee member, or research experience (note to undergraduates/MS students: RAships are rarely available for students I haven't worked with).</p>
+  <p class="prosp-intro">If you are looking to apply to the PhD program, please write me with a brief note on what interests you. Include [Prospective Student: Your Name] in the subject line and attach your resume or CV. Due to the volume of emails I receive, I may not be able to reply to all emails and meeting requests — I appreciate your understanding.</p>
+</div>
+

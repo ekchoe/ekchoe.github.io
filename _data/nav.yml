@@ -1,0 +1,8 @@
+# Top navigation — edit labels/order here.
+- { id: about,        label: About,        url: /about/ }
+- { id: publications, label: Publications, url: /publications/ }
+- { id: projects,     label: Projects,     url: /projects/ }
+- { id: teaching,     label: Teaching,     url: /teaching/ }
+- { id: students,     label: Students,     url: /students/ }
+- { id: news,         label: News,         url: /news/ }
+# - { id: writing,      label: Writing,      url: /writing/ }

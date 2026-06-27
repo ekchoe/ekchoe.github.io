@@ -1,0 +1,11 @@
+<header class="masthead">
+  <div>
+    <div class="name"><a href="{{ '/' | relative_url }}">{{site.title }}</a></div>
+    <div class="tagline">{{ site.tagline }}</div>
+  </div>
+  <nav class="site-nav">
+    {%- for item in site.data.nav -%}
+      <a href="{{ item.url | relative_url }}"{% if page.nav_id == item.id %} class="is-active"{% endif %}>{{ item.label }}</a>
+    {%- endfor -%}
+  </nav>
+</header>

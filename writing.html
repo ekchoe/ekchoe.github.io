@@ -1,0 +1,21 @@
+---
+layout: default
+title: Writing
+nav_id: writing
+permalink: /writing/
+---
+<h1 class="page-title">Writing</h1>
+<div class="page-note">// notes &amp; essays /</div>
+
+<div class="post-list">
+  {%- for post in site.posts -%}
+  <div class="post-item">
+    <a class="post-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
+    <div class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</div>
+  </div>
+  {%- endfor -%}
+  {% if site.posts.size == 0 %}
+  <div class="post-excerpt">No posts yet. Add Markdown files to <code>_posts/</code>.</div>
+  {% endif %}
+</div>

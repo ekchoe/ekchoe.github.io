@@ -1,0 +1,21 @@
+# Courses. Each course listed once; add terms as a list (newest first).
+- code: INST 682/CMSC 838X
+  name: "Personal Health Informatics & Visualization"
+  terms:
+    - Sp 2026
+    - Sp 2025
+    - Sp 2023
+    - Fa 2022
+    - Fa 2021
+    - Fa 2020
+    - Fa 2019
+    - Fa 2018
+- code: INST 779/828
+  name: "Reading Seminar: AI in Healthcare: Personal Data and the Transformation of Care"
+  terms:
+    - Fa 2026
+- code: INST 408G
+  name: "Special Topics in Information Science: Do You Like Research?"
+  terms:
+    - Fa 2026
+    - Fa 2025
