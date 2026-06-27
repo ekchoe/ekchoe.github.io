@@ -9,7 +9,7 @@ nav_id: home
     </div>
     {% if site.data.travel and site.data.travel.size > 0 %}
     <div class="travel-block">
-      <div class="label label-sm" style="margin-bottom:9px;">TRAVEL</div>
+      <div class="label label" style="margin-bottom:9px;">TRAVEL</div>
       {%- for t in site.data.travel limit: 1 -%}
       <div class="travel-row"><span class="mo">{{ t.month }}</span><span>{{ t.where }}</span></div>
       {%- endfor -%}
