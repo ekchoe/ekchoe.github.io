@@ -5,3 +5,4 @@ _site/
 vendor/
 .claude/
 *.bak
+.DS_Store
