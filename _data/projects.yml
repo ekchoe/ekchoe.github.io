@@ -29,9 +29,17 @@
   image: meaningful.jpg
   description: Exploring what activities older adults find meaningful and worthy of tracking, challenging the deficit-focused approach that dominates current activity tracking technology design 
 
+- theme: Problematic Smartphone Usage
+  title: TIMER
+  featured: true
+  image: timer.png
+  description: TIMER, an always-on ambient display with customizable attention signal, reduced problematic smartphone usage and increased perceived competence in controlling phone use.
+  article: https://doi.org/10.1145/3749507
+
+
 - theme: Stroke Rehabilitation
   title: Finger-worn Accelerometers
-  featured: true
+  featured: 
   image: wearable-sensors.png
   description: Investigating the use of finger-worn accelerometers to capture both gross arm and fine hand movements for the assessment of real-world upper-limb use
 
