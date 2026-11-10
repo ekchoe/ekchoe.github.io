@@ -44,6 +44,7 @@
   image: wearable-sensors.png
   article: https://doi.org/10.1371/journal.pone.0274142
   url: https://clinicaltrials.gov/study/NCT06787729
+  url_label: ClinicalTrial
   description: Investigating the use of finger-worn accelerometers to capture both gross arm and fine hand movements for the assessment of real-world upper-limb use
 
 - theme: Stroke Rehabilitation
