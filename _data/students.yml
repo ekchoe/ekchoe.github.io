@@ -23,5 +23,25 @@
   role: "PhD Student in Communications / MS in INFO"
   photo: "ao.jpg"
   url: ""
-  keywords: 
+  keywords:
     - health communication
+
+# Alumni
+- name: "Yuhan Luo"
+  alumni: true
+  role: "PhD Student in INFO"
+  current: "Assistant Professor, Dept. of Computer Science, City University of Hong Kong"
+  photo: ""
+  url: ""
+- name: "Young-Ho Kim"
+  alumni: true
+  role: "Postdoctoral Researcher"
+  current: "Research Scientist, NAVER AI Lab"
+  photo: ""
+  url: ""
+- name: "Junhyung Moon"
+  alumni: true
+  role: "Postdoctoral Researcher"
+  current: "Assistant Professor, Dept. of Software Convergence, CHA University"
+  photo: ""
+  url: ""

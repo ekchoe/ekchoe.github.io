@@ -107,6 +107,33 @@ hr { border: 0; border-top: 1px solid var(--rule); margin: 20px 0; }
 .contact-line .sep { color: #cfcdc8; }
 .contact-line a { font-weight: 600; color: var(--accent); }
 
+/* ---- highlights bar ------------------------------------------- */
+.hl-bar {
+  display: flex; align-items: center; flex-wrap: wrap;
+  gap: 0; margin: 2px 0 8px;
+}
+.hl-stat {
+  display: flex; align-items: baseline; gap: 6px;
+  padding: 6px 20px 6px 0;
+}
+.hl-stat:first-child { padding-left: 0; }
+.hl-num {
+  font-family: var(--serif); font-size: 17px; font-weight: 700;
+  color: var(--ink); letter-spacing: -0.01em;
+}
+.hl-lbl {
+  font-family: var(--mono); font-size: 10.5px; letter-spacing: 0.08em;
+  color: var(--muted); text-transform: lowercase;
+}
+.hl-div {
+  width: 1px; height: 18px; background: var(--rule);
+  margin: 0 20px 0 0; flex: none;
+}
+.hl-svc {
+  font-family: var(--mono); font-size: 10.5px; letter-spacing: 0.06em;
+  color: var(--muted); margin-bottom: 2px;
+}
+
 /* ---- section heading row ------------------------------------- */
 .sec-head { display: flex; align-items: baseline; justify-content: space-between; margin-bottom: 13px; }
 .sec-head .more { font-size: 13px; color: var(--faint); transition: color .15s; }
@@ -232,6 +259,13 @@ hr { border: 0; border-top: 1px solid var(--rule); margin: 20px 0; }
 .course .cmeta { font-size: 13px; color: var(--muted); margin-top: 3px; }
 
 .students-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+/* ---- alumni --------------------------------------------------- */
+.alumni-list { display: flex; flex-direction: column; gap: 8px; }
+.alumni-row { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px; font-size: 14px; }
+.alumni-name { font-weight: 600; color: var(--ink); }
+.alumni-role { font-size: 13px; color: var(--muted); }
+.alumni-current { font-size: 13px; color: var(--muted); }
+
 .student { display: flex; align-items: center; gap: 12px; }
 .student .avatar { width: 60px; height: 60px; border-radius: 50%; flex: none;
                    background: oklch(0.96 0.015 252); border: 1px solid oklch(0.92 0.02 252);

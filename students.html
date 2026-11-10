@@ -9,6 +9,7 @@ permalink: /students/
 
 <div class="students-grid">
   {%- for s in site.data.students -%}
+  {%- unless s.alumni -%}
   <div class="student">
     {% if s.photo and s.photo != "" %}
     <img class="avatar" src="{{ '/assets/img/students/' | append: s.photo | relative_url }}" alt="{{ s.name }}">
@@ -25,6 +26,24 @@ permalink: /students/
       {%- endif -%}
     </div>
   </div>
+  {%- endunless -%}
+  {%- endfor -%}
+</div>
+
+<hr style="margin:32px 0 24px;">
+
+<div class="label" style="margin-bottom:14px;">ALUMNI</div>
+<div class="alumni-list">
+  {%- for s in site.data.students -%}
+  {%- if s.alumni -%}
+  <div class="alumni-row">
+    <span class="alumni-name">{% if s.url and s.url != "" %}<a href="{{ s.url }}" target="_blank" rel="noopener">{{ s.name }}</a>{% else %}{{ s.name }}{% endif %}</span>
+    <span class="alumni-role">{{ s.role }}</span>
+    {%- if s.current and s.current != "" -%}
+    <span class="alumni-current">→ {{ s.current }}</span>
+    {%- endif -%}
+  </div>
+  {%- endif -%}
   {%- endfor -%}
 </div>
 

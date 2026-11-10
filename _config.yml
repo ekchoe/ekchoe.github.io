@@ -4,15 +4,17 @@ email: choe@umd.edu
 office: 'office: HBK 2117F'
 cv_url: "/assets/choe-cv.pdf"
 scholar_url: "https://scholar.google.com/citations?user=YjSJWqkAAAAJ&hl=en&oi=ao"
-last_updated: July 2026
+last_updated: November 2026
 
 # Research blurb shown on the homepage
 research: >
-  My research envisions an inclusive future where people are empowered to collect, 
-  explore, and act on their personal data to make informed, personalized health decisions 
-  and achieve their goals. By designing accessible health technologies, I work to bring this 
-  power to everyone — especially those who have long been overlooked or underserved — and to reduce 
-  health disparities.
+  My lab envisions an inclusive future where people are empowered to collect,
+  explore, and act on their personal data to make informed, personalized health decisions.
+  We co-design, build, and deploy patient- and clinician-facing AI-powered health technologies
+  in real-world care. We focus especially on people who have long been overlooked or underserved,
+  with the goal of reducing health disparities. Our work has been recognized with 13 Best Paper
+  and Honorable Mention awards and supported by NSF (CAREER, CRII, Medium) and NIH (R01).
+  I was named an ACM Distinguished Member in 2025.
 
 # Build settings
 markdown: kramdown

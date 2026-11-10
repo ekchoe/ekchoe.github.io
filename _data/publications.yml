@@ -41,8 +41,55 @@
 
 - year: 2026
   items:
-  - title: Looking Beyond the Screen to Study the Technology Use of Older People Experiencing
-      Cognitive Concerns
+  - title: "Understanding Over-the-Counter Medication Decision-Making Among Older Adults and Caregivers"
+    authors:
+    - Mengying Li
+    - Harshitha Kommaraju
+    - Jarrett G.W. Lee
+    - Seongjae Bae
+    - Siqiao Austin Ao
+    - Bongshin Lee
+    - Eun Kyoung Choe
+    venue: AMIA 2026
+    type: conference
+    award: ''
+    links:
+    - label: PDF
+      url: /assets/paper/amia26-aidara.pdf
+  - title: "Characterizing the Performance Gap in Human Activity Recognition for Older Adults"
+    authors:
+    - Hossein Khayami
+    - Sungjin Hwang
+    - Eshed Ohn-Bar
+    - David E. Conroy
+    - Amanda Lazar
+    - Eun Kyoung Choe
+    - Hernisa Kacorri
+    venue: ISWC 2026
+    type: conference
+    award: 'Best Notes and Briefs Honorable Mention'
+    links:
+    - label: DOI
+      url: https://doi.org/10.1145/3830727.3834835
+  - title: "To Stop or Not to Stop: Exploring the Intention-Behavior Gaps in Smartphone Usage"
+    authors:
+    - Jian Zheng
+    - Eun Kyoung Choe
+    venue: "PACM HCI (MobileHCI 2026)"
+    type: journal
+    award: ''
+    links: []
+  - title: "Envisioning Mobile Data Visualization Libraries for Digital Health"
+    authors:
+    - Bongshin Lee
+    - Seongjae Bae
+    - Mengying Li
+    - Eun Kyoung Choe
+    venue: "IEEE Computer Graphics and Applications"
+    type: journal
+    award: ''
+    links: []
+  - title: "Looking Beyond the Screen to Study the Technology Use of Older People Experiencing Cognitive Concerns"
     authors:
     - Ruipu Hu
     - Eun Kyoung Choe

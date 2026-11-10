@@ -32,7 +32,7 @@
 
 - theme: Problematic Smartphone Usage
   title: TIMER
-  featured: true
+  featured:
   image: timer.png
   description: TIMER, an always-on ambient display with customizable attention signal, reduced problematic smartphone usage and increased perceived competence in controlling phone use.
   article: https://doi.org/10.1145/3749507
@@ -40,14 +40,17 @@
 
 - theme: Stroke Rehabilitation
   title: Finger-worn Accelerometers
-  featured: 
+  featured: true
   image: wearable-sensors.png
+  article: https://doi.org/10.1371/journal.pone.0274142
+  url: https://clinicaltrials.gov/study/NCT06787729
   description: Investigating the use of finger-worn accelerometers to capture both gross arm and fine hand movements for the assessment of real-world upper-limb use
 
 - theme: Stroke Rehabilitation
   title: GoalTrack
-  featured: 
+  featured:
   image: goaltrack.png
+  article: https://dl.acm.org/doi/10.1145/3699723
   description: Supporting stroke survivors' rehab goal setting through multimodal data capture
 
 # - theme: Inclusive Self-Tracking
