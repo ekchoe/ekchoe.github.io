@@ -8,13 +8,13 @@ last_updated: November 2026
 
 # Research blurb shown on the homepage
 research: >
-  My lab envisions an inclusive future where people are empowered to collect,
-  explore, and act on their personal data to make informed, personalized health decisions.
-  We co-design, build, and deploy AI-powered health technologies for patients and clinicians,
-  evaluated in the wild. We focus especially on people who have long been overlooked or underserved,
-  with the goal of reducing health disparities. Our work has been recognized with 4 Best Paper Awards
-  and 9 Honorable Mentions / Best Paper Nominations, and supported by NSF (CAREER, CRII, Medium) and NIH (R01).
-  I was named an ACM Distinguished Member in 2025.
+  I envision an inclusive future where everyone can access and use their personal data to make
+  informed, personalized health decisions. I co-design, build, and evaluate AI-powered health
+  technologies, both in the lab and in the wild. I work with people who have
+  long been overlooked or underserved, including older adults, people with disabilities, and
+  caregivers, to reduce health disparities through accessible design. My lab's work has received
+  best paper awards at CHI, CSCW, and UbiComp. Our research has been supported by
+  NSF (CAREER, CRII, Medium) and NIH (R01) among others.
 
 # Build settings
 markdown: kramdown

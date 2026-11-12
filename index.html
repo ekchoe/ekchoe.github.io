@@ -19,7 +19,7 @@ nav_id: home
 
   <div class="bio-body">
     <div class="label" style="margin-bottom:10px;">RESEARCH</div>
-    <p>{{ site.research }}</p>
+    <p>{{ site.research }} <a href="/about/" style="color:var(--accent);font-weight:600;">See full bio.</a></p>
     <div class="areas-grid">
       {%- for area in site.data.areas -%}
       <span class="area"><span class="dot"></span>{{ area }}</span>
@@ -31,8 +31,6 @@ nav_id: home
       <a href="https://maps.umd.edu/map/index.html?&zoom=19&markertype=marker&xmarker=-76.94153&ymarker=38.98816&markertext=HBK" target="_blank" rel="noopener">{{ site.office }}</a>
       <span class="sep">·</span>
       <a href="{{ site.cv_url }}" target="_blank" rel="noopener">CV ↓</a>
-      <span class="sep">·</span>
-      <a href="/about/">Bio</a>
       <span class="sep">·</span>
       <a href="{{ site.scholar_url }}" target="_blank" rel="noopener">Google Scholar ↗</a>
     </div>
