@@ -21,7 +21,7 @@ permalink: /students/
       <div class="srole">{{ s.role }}</div>
       {%- if s.keywords and s.keywords.size > 0 -%}
       <div class="skeywords">
-        {%- for kw in s.keywords -%}<span class="skw {% cycle 'skw-1','skw-2','skw-3','skw-4','skw-5' %}">{{ kw }}</span>{%- endfor -%}
+        {%- for kw in s.keywords -%}<span class="skw skw-{{ kw | downcase | replace: ' ', '-' | replace: '/', '-' | replace: "'", '' }}">{{ kw }}</span>{%- endfor -%}
       </div>
       {%- endif -%}
     </div>
